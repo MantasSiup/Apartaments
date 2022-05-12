@@ -1,0 +1,8 @@
+Fotelis             2 200
+Lova                5 250
+Virtuves stalas     5 100
+Spinta              10 200
+Virtuves Kedes      5 100
+Komoda              5 150
+Lentynos            8 150
+Darbo stalas        4 100

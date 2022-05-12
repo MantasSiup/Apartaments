@@ -1,0 +1,3 @@
+20ProcNuolaida 20
+50ProcNuolaida 50
+5ProcNuolaida 5
